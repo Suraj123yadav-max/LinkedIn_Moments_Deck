@@ -1,7 +1,7 @@
-LinkedIn  Product  Strategy Deck
 
 
-# LinkedIn Product Strategy Deck
+
+ LinkedIn Product Strategy Deck
 
 ![LinkedIn Product Strategy](./linkedin-product-strategy.png)
 
