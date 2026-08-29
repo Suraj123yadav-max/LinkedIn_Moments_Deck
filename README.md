@@ -1,8 +1,10 @@
-# LinkedIn — Increasing Year-Round Engagement
+LinkedIn  Product  Strategy Deck
 
-### Product Management Case Study
 
-> **How might LinkedIn increase meaningful, year-round engagement among students and early-career professionals beyond job searching?**
+# LinkedIn Product Strategy Deck
+
+![LinkedIn Product Strategy](./linkedin-product-strategy.png)
+
 
 ## Overview
 
